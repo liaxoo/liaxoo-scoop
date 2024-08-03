@@ -1,0 +1,12 @@
+{
+    "version": "1.5.0.3000",
+    "description": "Cloud storage that puts privacy first",
+    "homepage": "https://nordlocker.com/",
+    "license": "https://my.nordaccount.com/legal/terms-of-service/",
+    "notes": "",
+    "url": "https://downloads.nordcdn.com/apps/windows/NordLocker/NordLockerSetup.exe",
+        "hash": "027b376aba9e488552ba7453ed5d6c31f16a1cd3028e76e7db1adb835bba5773",
+        "installer": {
+            "file": "NordLockerSetup.exe"
+        }
+}
